@@ -25,6 +25,11 @@ body {
     color: lightseagreen;
 }
 
+.elemento-de-lista{
+    color: lightgray;
+    padding-left: 32px;
+}
+
 a {
     color: crimson;
 }
