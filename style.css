@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(29, 29, 29);
+    color: aliceblue;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    font-family: sans-serif;
+}
+
+.titulo {
+    color: cornflowerblue;
+}
+
+.parrafo {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.lista-ordenada {
+    color: lightseagreen;
+}
+
+a {
+    color: crimson;
+}
